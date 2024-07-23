@@ -9,15 +9,15 @@ Use it for whatever you want, and be sure to reach us out on [Twitter](https://t
 Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
 
 *Version 1.0.0 built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0).*
-*Version 2.0.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/open-react-template/releases/tag/2.0.3).*
+*Version 2.0.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/open-react-template/releases/tag/2.0.3).
 
 ## Live demo
 
 Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
 
-## Open PRO
+## Symphonize.ai
 
-[![Open Pro](https://user-images.githubusercontent.com/2683512/151177673-e56ade57-c98d-4c37-b315-d313bd14bb53.png)](https://cruip.com/)
+[![Symphonize.ai](https://user-images.githubusercontent.com/2683512/151177673-e56ade57-c98d-4c37-b315-d313bd14bb53.png)](https://cruip.com/)
 
 ## Design files
 

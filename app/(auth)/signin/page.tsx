@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Sign In - Open PRO',
+  title: 'Sign In - Symphonize.ai',
   description: 'Page description',
 }
 
