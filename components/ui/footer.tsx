@@ -20,7 +20,7 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400">Symphonize.ai is a healthcare AI consulting startup that uses unstructured data to help doctors and clinicians make better decisions.</div>
+              <div className="text-gray-400">Symphonize.ai is a healthcare AI data synthesis startup that leverages unstructured data to support products and platforms focused on patient and population management for risk bearing entities, doctors and clinicians.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks 
